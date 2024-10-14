@@ -1,0 +1,18 @@
+.flex-box{
+    padding: 10px 20px;
+}
+#ekis{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+.right-box input[type="file"]{
+    width: 230px;
+}
+.prodimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}

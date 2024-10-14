@@ -1,0 +1,43 @@
+.upper form{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 10px 10px;
+    margin-left: -10px;
+    font-family: "Playfair";
+}
+.upper .labeldate{
+    font-size: 1.6rem;
+    background: #ff9fb6;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 20px 0 0 20px;
+}
+.upper .aa{
+    border-radius: 0 0 0 0;
+}
+.upper .inputdate, .upper .inputuname{
+    height: 50px;
+    padding: 10px 10px;
+    font-size: 1rem;
+    border: 1px solid #ff9fb6;
+    outline: none;
+    font-family: "Playfair";
+}
+.upper .inputdate{
+    width: 150px;
+}
+.combobox{
+    width: 150px;
+    height: 50px;
+    outline: none;
+    border: 1px solid #ff9fb6;
+    font-size: 1.2rem;
+    font-family: "Playfair";
+}
+.upper .buttondate{
+    font-size: 1.6rem;
+    border-radius: 0 20px 20px 0;
+    height: 50px;
+    width: 100px;
+}
